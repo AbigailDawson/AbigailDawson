@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abigail</h1>
 <h3 align="center">I am a junior software developer who creates programs that are as enjoyable to interact with as they are functional. It's important to me to work on meaningful projects that benefit users whose needs are not being met by the existing technologies available to them. I'm excited to be developing my technical skills to be able to bring original ideas to fruition.</h3>
 
-- 🀄 I’m currently working on [a browser-based game to learn Chinese characters.](https://github.com/AbigailDawson/memory-game)
+- 🀄 Currently working on [a browser-based game to learn Chinese characters.](https://github.com/AbigailDawson/memory-game)
 
-- 👩‍💻 I’m currently learning **React, Bootstrap & MongoDB**
+- 👩‍💻 Currently learning **React, Bootstrap & MongoDB**
 
-- 👩‍🎓 I’m interested in **education & accessibility**
+- 👩‍🎓 Interested in **education & accessibility**
 
 - 🤝 Skilled in **language learning, cross-cultural communication and team collaboration.**
 
 - ⛩️ Ask me about **my time living and studying in Japan and Taiwan!**
 
-- 📨 How to reach me **abigaildawson.dev@gmail.com**
+- 📨 How to reach me : **abigaildawson.dev@gmail.com**
 
-- 📄 Learn about my work experience [https://www.linkedin.com/in/abigaildawsondev/](https://www.linkedin.com/in/abigaildawsondev/)
+- 📄 Learn about my work experience : [https://www.linkedin.com/in/abigaildawsondev/](https://www.linkedin.com/in/abigaildawsondev/)
 
-- 👀 Fun fact **I have synesthesia, a sensory phenomenon that makes me perceive letters and numbers to appear in color!**
+- 👀 Fun fact : **I have synesthesia, a sensory phenomenon that makes me perceive letters and numbers to appear in color!**
 
 
 <h3 align="left">Languages and Tools:</h3>
