@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Abigail</h1>
+<h1 align="center">Hi, I'm Abigail!</h1>
 <h3 align="center">I am a junior software developer who creates programs that are as enjoyable to interact with as they are functional. It's important to me to work on meaningful projects that benefit users whose needs are not being met by the existing technologies available to them. I'm excited to be developing my technical skills to be able to bring original ideas to fruition.</h3>
 
 <hr>
 
 🀄 Currently working on [a browser-based game to learn Chinese characters.](https://github.com/AbigailDawson/memory-game)
 
-👩‍💻 Currently learning **React, Bootstrap & MongoDB**
+👩‍💻 Currently learning **JavaScript, MERN Stack**
 
 👩‍🎓 Interested in **education & accessibility**
 
