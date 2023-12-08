@@ -3,7 +3,7 @@
 
 <hr>
 
-🀄 Currently working on [a browser-based game to learn Chinese characters.](https://github.com/AbigailDawson/memory-game)
+🀄 Currently working on a full-stack web application called HoofHub for freelance farm sitters to organize their business
 
 👩‍💻 Currently learning **JavaScript, MERN Stack**
 
@@ -13,7 +13,7 @@
 
 ⛩️ Ask me about **my time living and studying in Japan and Taiwan!**
 
-📨 How to reach me : **abigaildawson.dev@gmail.com**
+📨 How to reach me : **abigaildawson.dev@gmail.com** or [LinkedIn](https://www.linkedin.com/in/abigaildawsondev/)
 
 📄 Learn about my work experience : [https://www.linkedin.com/in/abigaildawsondev/](https://www.linkedin.com/in/abigaildawsondev/)
 
