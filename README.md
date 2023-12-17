@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Abigail!</h1>
-<h3 align="center">I am a software developer who creates programs that are as enjoyable to interact with as they are functional. It's important to me to work on meaningful projects that benefit users whose needs are not being met by the existing technologies available to them. I am passionate about education and language learning and have experience both in the special needs nonprofit world as well as in cross-cultural education. Get to know me more by checking out my <a href="https://abigaildawson.github.io/jiyi-memory/" ><b>most recent project</b></a> or connecting with me on <a href="https://www.linkedin.com/in/abigaildawsondev/"><b>LinkedIn</b></a>!</h3>
+<h3 align="center">I creates program that are as enjoyable to interact with as they are functional. It's important to me to work on meaningful projects that benefit users whose needs are not being met by the existing technologies available to them. I am passionate about education and language learning and have experience both in the special needs nonprofit world as well as in cross-cultural education. Get to know me more by checking out my <a href="https://abigaildawson.github.io/hoofhub/" ><b>most recent project</b></a> or connecting with me on <a href="https://www.linkedin.com/in/abigaildawsondev/"><b>LinkedIn</b></a>!</h3>
 
 <hr>
 
-🀄 Currently working on **HoofHub: a horse care app for freelance farm sitters to organize their business**
+🀄 Currently working on **KnowNative: a resource for intermediate & advanced language learners to improve their reading comprehension skills through studying real native texts**
 
-👩‍💻 Currently learning **JavaScript, MERN Stack**
+👩‍💻 Currently learning **Python, Django and PostreSQL**
 
-👩‍🎓 Interested in **education & accessibility**
+👩‍🎓 Interested in **education, linguistics & East Asian culture**
 
 🤝 Skilled in **language learning, cross-cultural communication and team collaboration.**
 
