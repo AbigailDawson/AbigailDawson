@@ -15,7 +15,7 @@
 
 📨 How to reach me : **abigaildawson.dev@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/abigaildawsondev/)**
 
-👀 Fun fact : **I have synesthesia, a sensory phenomenon that makes me perceive letters and numbers to appear in color!**
+👀 Fun fact : I used to teach **therapeutic horseback riding lessons** for individuals with physical disabilites, cognitive delays and mental health challenges. Seeing the impact on my students' lives when they formed a deep bond with an animal was an incredibly moving experience, and inspired me to continue to seek out opportunities to make a positive impact on others in whatever capacity I can.
 
 <hr>
 
