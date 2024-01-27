@@ -3,7 +3,7 @@
 
 <hr>
 
-🀄 Currently working on **KnowNative: a resource for foreign language learners to improve their reading comprehension skills through studying real native texts**
+🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for foreign language learners to improve their reading comprehension skills through studying real native texts**
 
 👩‍💻 Currently learning **React | MERN Stack**
 
