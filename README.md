@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Abigail!</h1>
-<h3 align="center">I create programs that are as enjoyable to interact with as they are functional. With a passion for education and language learning and specialized knowledge of East Asian culture and history, I am particularly excited about working on projects that broaden perspectives and enhance cross-cultural understanding. Get to know me more by checking out my <a href="https://github.com/AbigailDawson/notealong" ><b>most recent project</b></a> or connecting with me on <a href="https://www.linkedin.com/in/abigaildawsondev/"><b>LinkedIn</b></a>!</h3>
+<h3 align="center">I create programs that are as enjoyable to interact with as they are functional. With a passion for education and language learning and specialized knowledge of East Asian culture and history, I am particularly excited about working on projects that broaden perspectives and enhance cross-cultural understanding. Get to know me more by checking out my <a href="https://github.com/AbigailDawson/knownative" ><b>current passion project</b></a> and connecting with me on <a href="https://www.linkedin.com/in/abigaildawsondev/"><b>LinkedIn</b></a>!</h3>
 
 <hr>
 
-🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for foreign language learners to improve their reading comprehension skills through studying real native texts**
+🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for people learning traditional Chinese to improve their reading comprehension skills through studying real native articles**.
 
-👩‍💻 Currently learning **React | MERN Stack**
+👩‍💻 Currently learning **Svelte, TypeScript & Swedish**
 
 👩‍🎓 Interested in **education, linguistics & East Asian culture**
 
