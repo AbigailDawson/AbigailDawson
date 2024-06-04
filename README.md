@@ -5,7 +5,7 @@
 
 🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for people learning traditional Chinese to improve their reading comprehension skills through studying real native articles**.
 
-👩‍💻 Currently learning **Rust & Swedish**
+👩‍💻 Currently learning **Rust**
 
 👩‍🎓 Interested in **education, linguistics & East Asian culture**
 
