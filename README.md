@@ -3,11 +3,9 @@
 
 <hr>
 
-🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for people learning traditional Chinese to improve their reading comprehension skills through studying real native articles**.
+🀄 Currently working on **[KnowNative](https://github.com/AbigailDawson/knownative): a resource for people learning traditional Chinese to improve their reading comprehension skills through studying articles written by native speakers.** Check out the **[live demo](https://knownative.io/)**!
 
-👩‍💻 Currently learning **Rust**
-
-👩‍🎓 Interested in **education, linguistics & East Asian culture**
+👩‍💻 Currently learning about **knowledge graphs**, **Responsible AI** and **AI literacy**.
 
 🤝 Skilled in **language learning, cross-cultural communication and team collaboration.**
 
@@ -19,9 +17,9 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">My favs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,py,django,mongodb,html,css,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,django,flask,mongodb,html,css,bootstrap,materialui,astro,css" />
   </a>
 </p>
